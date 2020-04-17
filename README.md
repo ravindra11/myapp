@@ -1,1 +1,1 @@
-Welcome to out App
+Welcome to our App
